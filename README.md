@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Nikita!
 
-<!--
-**x99zed/x99zed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page. I am a budding developer actively learning and striving to become a professional in backend development.
 
-Here are some ideas to get you started:
+## Key Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fundamentals:**
+- Python
+- CSS, HTML
+- Git
+- Proficiency in Linux
+- Algorithms and Data Structures
+
+**Applied:**
+- Frameworks: Django
+- Languages: English - B1
+
+## My Plans
+
+- **Continuous Learning:** I am constantly honing my programming skills and exploring new technologies and best practices in development.
+- **Projects:** In the near future, I plan to launch personal projects to solidify my knowledge and showcase my capabilities.
+
+---
+
+Thanks for visiting my profile!
