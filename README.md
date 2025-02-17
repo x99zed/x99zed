@@ -20,6 +20,11 @@ Welcome to my GitHub page. I am a budding developer actively learning and strivi
 - **Continuous Learning:** I am constantly honing my programming skills and exploring new technologies and best practices in development.
 - **Projects:** In the near future, I plan to launch personal projects to solidify my knowledge and showcase my capabilities.
 
+
+## Education
+- SUAI (Saint Petersburg State University of Aerospace Instrumentation), Institute of computer systems and computer programming. Specialization: applied informatics
+  (2023 - 2027)
+
 ---
 
 Thanks for visiting my profile!
